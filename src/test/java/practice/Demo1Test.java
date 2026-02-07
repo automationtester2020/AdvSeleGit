@@ -9,6 +9,7 @@ public class Demo1Test {
 	{
 		
 		System.out.println("Apple test from demo1");
+		System.out.println("Orange test from demo1");
 	}
 	
 }
